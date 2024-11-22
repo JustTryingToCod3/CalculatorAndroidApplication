@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Calculator</string>
+    <string name="function_calculator">Function Calculator</string>
+    <string name="show_log">Show Log</string>
+    <string name="basic_calculator">Basic Calculator</string>
+    <string name="submit">Submit</string>
+</resources>
